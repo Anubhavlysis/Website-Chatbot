@@ -60,11 +60,10 @@ User → Website Chatbot UI → n8n Webhook → AI Workflow → Response → Web
 # 🔄 Workflow Explanation
 
 1. User sends a message through the chatbot interface.
-2. Frontend sends the message to the n8n webhook using API requests.
-3. n8n receives the request and triggers the AI workflow.
-4. AI processes the user query.
-5. Response is returned back to the website chatbot.
-6. Chatbot displays the generated response to the user.
+2. n8n receives the request and triggers the AI workflow.
+3. AI processes the user query.
+4. Response is returned back to the website chatbot.
+5. Chatbot displays the generated response to the user.
 
 ---
 
