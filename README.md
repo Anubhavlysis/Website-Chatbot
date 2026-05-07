@@ -45,15 +45,15 @@ User → Website Chatbot UI → n8n Webhook → AI Workflow → Response → Web
 
 
 ## Website Overview
-![Website Overview](images/website)
+![Website Overview](images/website.png)
 
 
 ## 🖥️ Website Chatbot UI
-![Website Chatbot UI](images/chatbot-interface)
+![Website Chatbot UI](images/chatbot-interface.png)
 
 
 ## ⚙️ n8n Workflow
-![n8n Workflow](images/n8n-workflow)
+![n8n Workflow](images/n8n-workflow.png)
 
 ---
 
